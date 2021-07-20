@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  // This is where the components will be nested and conditionally rendered
   return (
     <div className="App">
       <header className="App-header">
