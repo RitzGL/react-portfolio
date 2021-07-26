@@ -1,6 +1,24 @@
 nav > ul{
     list-style-type: none;
     display: flex;
+    align-self: flex-end;
+}
+
+nav > ul > li{
+    padding-left: 3rem;
+}
+
+nav > ul > li > a{
+    text-decoration: none;
+}
+
+nav > ul > li > a:visited{
+    text-decoration: none;
+    color:black;
+}
+
+h1{
+    font-size: 30px;
 }
 
 .heading{

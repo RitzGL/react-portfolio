@@ -13,3 +13,17 @@ li{
 section{
     width: 50%;
 }
+
+section > ul > li > a{
+    text-decoration: none;
+    color: black;
+}
+
+section > ul > li :hover{
+    color: #0F7173;
+}
+
+section > ul > li > a:visited{
+    text-decoration: none;
+    color: black;
+}

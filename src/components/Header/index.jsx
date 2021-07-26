@@ -10,7 +10,7 @@ function Header() {
       <nav className='navigation'>
         <div className='heading'>
           <h1>RitzGL</h1>
-          <h3>Web Developer</h3>
+          <h4>Web Dev</h4>
         </div>
         <ul>
           <li>
