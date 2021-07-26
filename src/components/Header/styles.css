@@ -1,4 +1,12 @@
-.title{
-    display: inline-flex;
-    
-  }
+nav > ul{
+    list-style-type: none;
+    display: flex;
+}
+
+.heading{
+    display: flex;
+}
+
+.navigation{
+    display: flex;
+}
