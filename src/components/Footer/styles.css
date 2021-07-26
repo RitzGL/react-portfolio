@@ -1,0 +1,15 @@
+section > ul{
+    list-style-type: none;
+    display: flex;
+    position: fixed;
+    left: 41%;
+    bottom: 0px;
+}
+
+li{
+    padding: 25px;
+}
+
+section{
+    width: 50%;
+}
