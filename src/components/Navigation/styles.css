@@ -1,0 +1,32 @@
+aside > ul{
+    list-style-type: none;
+    display: flex;
+    align-self: flex-end;
+    padding-left: 15%;
+}
+
+aside > ul > li{
+    padding-left: 5rem;
+    padding-right: 5rem;
+    padding-top: 1rem;
+}
+
+aside > ul > li > a{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: larger;
+}
+
+aside > ul > li  :hover{
+    text-decoration: underline;
+    color: #0F7173 !important; 
+}
+
+aside > ul > li :visited{
+    text-decoration: none;
+    color:black;
+}
+
+h1{
+    font-size: 30px;
+}

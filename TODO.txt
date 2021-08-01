@@ -14,3 +14,17 @@ IN CONTACT:
 IN PROJECT:
 	-Pass an array to it as props
 		-render each one using maps
+
+		TODO
+
+Remove image from the stage area, 
+that will be handled when we 
+conditionally render components with state. 
+
+Nest the navigation within the header, 
+the header will now only contain the page's title.
+
+Footer is fine, leave it as is
+
+Begin work on the Project component 
+(we will generate one component per element inside of an array of objects)	
