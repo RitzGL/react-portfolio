@@ -2,25 +2,27 @@ nav > ul{
     list-style-type: none;
     display: flex;
     align-self: flex-end;
-    padding-left: 25%;
+    padding-left: 15%;
 }
 
 nav > ul > li{
-    padding: 0.5rem;
-    
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-bottom: 0.45rem;
 }
 
 nav > ul > li > a{
     text-decoration: none;
     font-weight: bold;
+    font-size: larger;
 }
 
-nav > ul > li :hover{
+nav > ul > li  :hover{
     text-decoration: underline;
-    color: #0F7173;
+    color: #0F7173 !important; 
 }
 
-nav > ul > li > a :visited{
+nav > ul > li :visited{
     text-decoration: none;
     color:black;
 }
@@ -35,5 +37,5 @@ h1{
 
 .navigation{
     display: flex;
-    padding-left: 10%;
+    padding-left: 6%;
 }
