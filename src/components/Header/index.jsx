@@ -7,13 +7,12 @@ import Navigation from "../Navigation";
 
 function Header() {
   return (
-    <header className='navigation'>
-        <div className='heading'>
-          <h1>RitzGL</h1>
-          <h4>Web Dev</h4>
-        </div>
-        <Navigation />
-     
+    <header className="navigation">
+      <div className="heading">
+        <h1>RitzGL</h1>
+        <h4>Web Dev</h4>
+      </div>
+      <Navigation className="nav-bar" />
     </header>
   );
 }

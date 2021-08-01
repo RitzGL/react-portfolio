@@ -4,5 +4,10 @@
 
 .navigation{
     display: flex;
-    padding-left: 6%;
+    padding-left: 7rem;
+    padding-top: 2rem;
+}
+
+.nav-bar{
+    justify-content: flex-end;
 }

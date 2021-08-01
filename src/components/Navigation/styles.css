@@ -1,20 +1,26 @@
+aside{
+    display:flex;
+    flex-wrap: wrap;
+}
+
 aside > ul{
     list-style-type: none;
-    display: flex;
-    align-self: flex-end;
-    padding-left: 15%;
+    display:inline-flex;
+    padding-left: 25%;
 }
 
 aside > ul > li{
-    padding-left: 5rem;
-    padding-right: 5rem;
-    padding-top: 1rem;
+    padding-left: 22%;
+    padding-right: 22%;
+    padding-top: 5%;
+    flex-wrap: wrap;
 }
 
 aside > ul > li > a{
     text-decoration: none;
     font-weight: bold;
     font-size: larger;
+    flex-wrap: wrap;
 }
 
 aside > ul > li  :hover{
