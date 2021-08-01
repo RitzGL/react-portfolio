@@ -1,0 +1,16 @@
+REACT PORTFOLIO TO DO
+
+-About Component
+-Project Component
+-Contact Component
+
+IN HEADER:
+	-Download Resume
+	-Using files with react
+
+IN CONTACT:
+	-Get information from user
+
+IN PROJECT:
+	-Pass an array to it as props
+		-render each one using maps

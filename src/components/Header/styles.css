@@ -2,17 +2,25 @@ nav > ul{
     list-style-type: none;
     display: flex;
     align-self: flex-end;
+    padding-left: 25%;
 }
 
 nav > ul > li{
-    padding-left: 3rem;
+    padding: 0.5rem;
+    
 }
 
 nav > ul > li > a{
     text-decoration: none;
+    font-weight: bold;
 }
 
-nav > ul > li > a:visited{
+nav > ul > li :hover{
+    text-decoration: underline;
+    color: #0F7173;
+}
+
+nav > ul > li > a :visited{
     text-decoration: none;
     color:black;
 }
@@ -27,4 +35,5 @@ h1{
 
 .navigation{
     display: flex;
+    padding-left: 10%;
 }

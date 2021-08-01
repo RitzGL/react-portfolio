@@ -24,8 +24,8 @@ function Header() {
           </li>
           <li>
             <a
-              href="../../../public/assets/Developer Resume.pdf"
-              download="Resume"
+              href="ritz-developer-resume.pdf"
+              download
             >
               Resume
             </a>
